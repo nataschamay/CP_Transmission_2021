@@ -7,7 +7,7 @@
 #############################################################################################################################
 # find_controls_out (output of find_controls_part1.pl) will need to be manually processed first, 
 # before being used as input here. The manual processing using Microsoft Excel involves:
-#	(1) Sort by Recip_SubjectID and Control_PatientID
+#	(1) Sort by Recip_SubjectID and Control_PatientID (Note: "Acquisition" and "Recipient"/"Recip" are used interchangeably)
 #	(2) Remove duplicate control isolates from the same patient (Excel formula: IF(AND(C2=C1,K2=K1),"Repeated Control Patient ID","OK")
 #	(3) Remove control isolates of patients that lack admission data
 # resulting in find_controls_out_filtered
