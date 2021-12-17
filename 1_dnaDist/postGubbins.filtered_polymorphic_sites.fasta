@@ -1,1 +1,6 @@
-## This would be the recombination-filtered core genome multi-fasta file (Gubbins output)
+# This would be the recombination-filtered core genome aligned multi-fasta file (Gubbins output), format as follows:
+>CF1
+ATACGTACGTACGTAGCA
+>CF2
+ATACGTACGTACGTAGCA
+# etc
