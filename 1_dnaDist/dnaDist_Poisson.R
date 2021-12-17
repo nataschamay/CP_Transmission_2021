@@ -3,7 +3,7 @@
 
 # Calculate pairwise SNP difference based on output of Gubbins, and run Poisson function (contributed by David Eyre) to compare the pairwise SNP to the BEAST-derived mutation rate threshold, assuming a Poisson distribution for the accumulation of mutations.
 
-# Before running script: Edit lines with ###
+# Before running script: Edit lines with ### to provide paths/filenames
 # Usage: Rscript dnaDist_Poisson.R
 
 # output format:
