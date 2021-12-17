@@ -19,13 +19,13 @@ library(ape)
 library(dplyr)
 library(reshape2)
 
-setwd("/user/data1/CP/find_pairs")												### Set the path
+setwd("/user/data1/CP/find_pairs")									### Set the path
 
 STGroup <- "postGubbins_cfreundii_CCgroup22_40samples"							### Set the group name
-beast_mu <- 2.72																### Set the mu (output of BEAST, specific to each species)
+beast_mu <- 2.72											### Set the mu (output of BEAST, specific to each species)
 
 # Read input multiple fasta file - this is the output of Gubbins, i.e. recombination-filtered core genome
-data <- read.FASTA(file = "postGubbins.filtered_polymorphic_sites.fasta") 		### Set the input filename 
+data <- read.FASTA(file = "postGubbins.filtered_polymorphic_sites.fasta") 				### Set the input filename 
 
 # Calculate the pair-wise distance
 out <-  dist.dna(data,model="N",pairwise.deletion=TRUE,as.matrix=T) # Full matrix
