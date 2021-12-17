@@ -1,3 +1,6 @@
+Custom code used for Carbapenemase-producing Enterobacterales (CPE) transmission analysis
+https://github.com/nataschamay/cp_transmission_2021
+
 System requirements
 ===================
 A Linux/Unix workstation with Perl and R installed. 
