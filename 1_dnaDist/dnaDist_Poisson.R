@@ -83,7 +83,7 @@ fullrecords_NameStripped$max.snp
 # Determine if there is tranmission with max.snp cutoff
 fullrecords_NameStripped$transmission.plausible = ifelse(as.numeric(as.character(fullrecords_NameStripped$snps)) <= as.numeric(as.character(fullrecords_NameStripped$max.snp)), 1, 0)
 
-# Write output
+# Write output to file
 write.csv(fullrecords_NameStripped, "dnaDist_poisson_out")					### Set output filename
 
 
