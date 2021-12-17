@@ -1,0 +1,13 @@
+CF27	Patient_40	CF25	Patient_48		Ward Direct		No Ward Contact	
+CF31	Patient_14	CF27	Patient_40				No Ward Contact	
+CF31	Patient_14	CF28	Patient_59				No Ward Contact	
+CF31	Patient_14	CF30	Patient_21				No Ward Contact	
+CF31	Patient_14	CF25	Patient_48				No Ward Contact	
+CF20	Patient_36	CF10	Patient_51				No Ward Contact	
+CF40	Patient_24	CF29	Patient_38			Ward Indirect	No Ward Contact	
+CF28	Patient_59	CF27	Patient_40				No Ward Contact	
+CF28	Patient_59	CF25	Patient_48		Ward Direct		No Ward Contact	
+CF15	Patient_18	CF1	Patient_4		Ward Direct	Ward Indirect	No Ward Contact	
+CF30	Patient_21	CF27	Patient_40				No Ward Contact	
+CF30	Patient_21	CF28	Patient_59				No Ward Contact	
+CF30	Patient_21	CF25	Patient_48		Ward Direct		No Ward Contact	

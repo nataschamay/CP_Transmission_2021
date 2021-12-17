@@ -1,0 +1,13 @@
+CF27	CF25	Patient_40	Patient_48	Procedure Direct	Procedure Indirect	
+CF31	CF27	Patient_14	Patient_40			No Procedure Contact(notInProc)
+CF31	CF28	Patient_14	Patient_59			No Procedure Contact(notInProc)
+CF31	CF30	Patient_14	Patient_21		Procedure Indirect	No Procedure Contact(d>r)
+CF31	CF25	Patient_14	Patient_48			No Procedure Contact(notInProc)
+CF20	CF10	Patient_36	Patient_51			No Procedure Contact(notInProc)
+CF40	CF29	Patient_24	Patient_38			No Procedure Contact(notInProc)
+CF28	CF27	Patient_59	Patient_40			No Procedure Contact(notInProc)
+CF28	CF25	Patient_59	Patient_48			No Procedure Contact(notInProc)
+CF15	CF1	Patient_18	Patient_4			No Procedure Contact(notInProc)
+CF30	CF27	Patient_21	Patient_40			No Procedure Contact(notInProc)
+CF30	CF28	Patient_21	Patient_59			No Procedure Contact(notInProc)
+CF30	CF25	Patient_21	Patient_48			No Procedure Contact(notInProc)

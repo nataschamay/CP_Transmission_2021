@@ -1,0 +1,13 @@
+CF27	Patient_40	CF25	Patient_48		Hospital Direct			
+CF31	Patient_14	CF27	Patient_40		Hospital Direct	Hospital Indirect		
+CF31	Patient_14	CF28	Patient_59		Hospital Direct	Hospital Indirect		
+CF31	Patient_14	CF30	Patient_21	Hospital Direct (Exact)				
+CF31	Patient_14	CF25	Patient_48		Hospital Direct	Hospital Indirect		
+CF20	Patient_36	CF10	Patient_51				No Hospital Contact	
+CF40	Patient_24	CF29	Patient_38			Hospital Indirect		
+CF28	Patient_59	CF27	Patient_40	Hospital Direct (Exact)	Hospital Direct		No Hospital Contact	
+CF28	Patient_59	CF25	Patient_48		Hospital Direct			
+CF15	Patient_18	CF1	Patient_4		Hospital Direct	Hospital Indirect	No Hospital Contact	
+CF30	Patient_21	CF27	Patient_40		Hospital Direct	Hospital Indirect		
+CF30	Patient_21	CF28	Patient_59		Hospital Direct			
+CF30	Patient_21	CF25	Patient_48	Hospital Direct (Exact)	Hospital Direct		No Hospital Contact	

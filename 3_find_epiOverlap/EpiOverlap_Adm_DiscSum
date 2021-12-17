@@ -1,0 +1,13 @@
+CF27	Patient_40	CF25	Patient_48		Discipline Direct			
+CF31	Patient_14	CF27	Patient_40				No Discipline Contact	
+CF31	Patient_14	CF28	Patient_59				No Discipline Contact	
+CF31	Patient_14	CF30	Patient_21				No Discipline Contact	
+CF31	Patient_14	CF25	Patient_48				No Discipline Contact	
+CF20	Patient_36	CF10	Patient_51				No Discipline Contact	
+CF40	Patient_24	CF29	Patient_38			Discipline Indirect	No Discipline Contact	
+CF28	Patient_59	CF27	Patient_40	Discipline Direct (Exact)	Discipline Direct		No Discipline Contact	
+CF28	Patient_59	CF25	Patient_48		Discipline Direct			
+CF15	Patient_18	CF1	Patient_4		Discipline Direct	Discipline Indirect	No Discipline Contact	
+CF30	Patient_21	CF27	Patient_40		Discipline Direct	Discipline Indirect		
+CF30	Patient_21	CF28	Patient_59		Discipline Direct			
+CF30	Patient_21	CF25	Patient_48	Discipline Direct (Exact)	Discipline Direct		No Discipline Contact	

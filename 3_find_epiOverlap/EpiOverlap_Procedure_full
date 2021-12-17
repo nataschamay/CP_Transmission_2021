@@ -1,0 +1,5 @@
+CF27	CF25	Patient_40	Patient_48	Procedure Contact(ERCP)	Procedure Direct	Hospital_A#2018.807261	Hospital_A#2018.807261
+CF27	CF25	Patient_40	Patient_48	Procedure Contact(ERCP)	Procedure Indirect	Hospital_A#2018.809261	Hospital_A#2018.807261
+CF31	CF30	Patient_14	Patient_21	Procedure Contact(CYTO)	Procedure Indirect	Hospital_A#2018.848315	Hospital_A#2018.846578
+CF31	CF30	Patient_14	Patient_21	No Procedure Contact(d>r)		Hospital_A#2018.780822	Hospital_A#2019.449315
+CF31	CF30	Patient_14	Patient_21	No Procedure Contact(d>r)		Hospital_A#2019.315069	Hospital_A#2019.449315
