@@ -1,0 +1,7 @@
+Patient ID	Procedure Hospital	ERCP	Cystoscope	Colonoscope	OGD
+Patient_14	Hospital_A			2018.780822	2018.780822
+Patient_14	Hospital_A		2018.848315	2019.315069	2019.315069
+Patient_21	Hospital_A		2018.846578		2019.449315
+Patient_36	Hospital_A	2018.40274			
+Patient_48	Hospital_A	2018.807261			
+Patient_40	Hospital_A	2018.807261,2018.809261			
