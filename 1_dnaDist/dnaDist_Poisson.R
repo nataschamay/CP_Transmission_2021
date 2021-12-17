@@ -4,7 +4,7 @@
 # Calculate pairwise SNP difference based on output of Gubbins, and run Poisson function (contributed by David Eyre) to compare the pairwise SNP to the BEAST-derived mutation rate threshold, assuming a Poisson distribution for the accumulation of mutations.
 
 # Before running script: Edit lines with ### to provide paths/filenames
-# Usage: Rscript dnaDist_Poisson.R
+# Usage: Execute in RStudio or run in command line (Rscript dnaDist_Poisson.R)
 
 # output format:
 	# snps = pairwise SNP count between Isolate1 and Isolate2, based on the recombination-filtered core genome alignment
