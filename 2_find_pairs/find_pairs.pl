@@ -1,7 +1,7 @@
 # find_pairs.pl
 # By Natascha May Thevasagayam, NCID, Singapore
 
-# For determining transmission pairs based on specified criteria
+# For determining clonal transmission pairs based on specified criteria
 # Usage: perl find_pairs.pl
 
 
