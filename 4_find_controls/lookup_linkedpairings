@@ -1,0 +1,14 @@
+Acquisition patient	Acquisition isolate	Source patient	Source isolate
+Patient_40	CF27	Patient_48	CF25
+Patient_14	CF31	Patient_40	CF27
+Patient_14	CF31	Patient_59	CF28
+Patient_14	CF31	Patient_21	CF30
+Patient_14	CF31	Patient_48	CF25
+Patient_36	CF20	Patient_51	CF10
+Patient_24	CF40	Patient_38	CF29
+Patient_59	CF28	Patient_40	CF27
+Patient_59	CF28	Patient_48	CF25
+Patient_18	CF15	Patient_4	CF1
+Patient_21	CF30	Patient_40	CF27
+Patient_21	CF30	Patient_59	CF28
+Patient_21	CF30	Patient_48	CF25

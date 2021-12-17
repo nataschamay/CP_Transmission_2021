@@ -1,0 +1,8 @@
+Patient ID	Isolate ID	Date of Culture	Date of Culture (decimal)	CC group	Genomic species	ST	Genomic CP gene(s)
+Patient_14	CF31	6/11/2018	2018.849315	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1
+Patient_18	CF15	1/10/2019	2019.750685	cfreundii_CCgroup22_40samples	Citrobacter freundii	107	blaNDM-1
+Patient_21	CF30	5/11/2018	2018.846576	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1
+Patient_24	CF40	20/5/2019	2019.383562	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1,blaOXA-48
+Patient_36	CF20	23/3/2020	2020.227398	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1
+Patient_40	CF27	25/10/2018	2018.816439	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1
+Patient_59	CF28	26/10/2018	2018.819178	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1

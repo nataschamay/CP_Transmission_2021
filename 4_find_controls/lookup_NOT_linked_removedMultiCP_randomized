@@ -1,0 +1,33 @@
+Patient ID	Isolate ID	Date of Culture	Date of Culture (decimal)	CC group	Genomic species	ST	Genomic CP gene(s)
+Patient_6	ECO1	12/6/2019	2019.446576	ecoli_CCgroup1_204samples	Escherichia coli	410	blaNDM-1
+Patient_1	CF6	11/2/2019	2019.115069	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1
+Patient_54	ECL1	29/3/2018	2018.241096	ecloacae_CCgroup3_39samples	Enterobacter cloacae	350	blaNDM-1
+Patient_62	CR1	29/4/2019	2019.326028	Citrobacter rodentium	Citrobacter rodentium	-	blaNDM-1
+Patient_4	CF1	30/5/2019	2019.410959	cfreundii_CCgroup22_40samples	Citrobacter freundii	107	blaNDM-1
+Patient_20	CF33	24/1/2019	2019.065754	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1
+Patient_58	CF11	6/6/2019	2019.430137	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1
+Patient_56	CF23	14/4/2018	2018.284932	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1
+Patient_72	KP18	11/6/2019	2019.443836	kpneumo_CCgroup3_460samples	Klebsiella pneumoniae	14	blaKPC-2
+Patient_64	KP14	23/6/2019	2019.476713	kpneumo_CCgroup3_460samples	Klebsiella pneumoniae	273	blaOXA-48
+Patient_42	CF7	8/7/2017	2017.519133	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1
+Patient_68	ECO7	21/2/2019	2019.142466	ecoli_CCgroup29_3samples	Escherichia coli	-	blaNDM-1
+Patient_63	ECO5	21/10/2019	2019.805480	ecoli_CCgroup1_204samples	Escherichia coli	224	blaKPC-2
+Patient_31	CF32	31/12/2018	2019.000000	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1
+Patient_30	CF8	23/2/2019	2019.147945	cfreundii_CCgroup22_40samples	Citrobacter freundii	-	blaNDM-1
+Patient_3	CF9	14/3/2019	2019.200000	cfreundii_CCgroup22_40samples	Citrobacter freundii	98	blaIMP-1
+Patient_70	KP16	8/8/2019	2019.602740	kpneumo_CCgroup3_460samples	Klebsiella pneumoniae	12	blaIMP-1
+Patient_71	KP17	25/5/2019	2019.397261	kpneumo_CCgroup3_460samples	Klebsiella pneumoniae	86	blaKPC-2
+Patient_17	CF21	24/9/2017	2017.732248	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1
+Patient_50	CF35	8/3/2019	2019.183562	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaKPC-2
+Patient_67	KP15	6/8/2019	2019.597261	kpneumo_CCgroup29_12samples	Klebsiella pneumoniae	-	blaNDM-1
+Patient_16	CF14	15/9/2019	2019.706850	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1
+Patient_16	CF14	15/9/2019	2019.706850	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1
+Patient_48	CF25	18/10/2018	2018.797261	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1
+Patient_5	ECL2	31/5/2019	2019.413699	ecloacae_CCgroup3_39samples	Enterobacter cloacae	79	blaNDM-1
+Patient_38	CF29	31/10/2018	2018.832877	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1
+Patient_51	CF10	26/5/2019	2019.400000	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1
+Patient_57	CF13	12/3/2017	2017.196729	cfreundii_CCgroup22_40samples	Citrobacter freundii	91	blaIMP-1
+Patient_52	CF22	7/11/2017	2017.852467	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1
+Patient_12	CF5	23/3/2020	2020.227398	cfreundii_CCgroup22_40samples	Citrobacter freundii	22	blaNDM-1
+Patient_61	ECL20	11/5/2017	2017.360663	ecloacae_CCgroup3_39samples	Enterobacter cloacae	93	blaKPC-2
+Patient_69	ECO8	6/3/2020	2020.180822	ecoli_CCgroup4_8samples	Escherichia coli	69	blaKPC-2
