@@ -1,4 +1,4 @@
-Isolate ID	Date of culture (decimal)
+IsolateID	Date of culture (decimal)
 CF1	2019.410959
 CF2	2019.435617
 CF3	2019.449315
