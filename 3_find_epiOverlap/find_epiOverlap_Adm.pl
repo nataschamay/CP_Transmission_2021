@@ -210,7 +210,7 @@ while (<LINKEDPAIRS>){
 			}
 
 			# Store data for comparison
-			# From here, anything that is OutOfRange should be ignored. 
+			# From here, anything that is OutOfRange would be ignored. 
 			# Start and Stop dates are already adjusted to the DOC boundary. 
 			if($donor_start ne "OutOfRange"){
 
