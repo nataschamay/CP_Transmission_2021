@@ -19,3 +19,7 @@ Custom code for performing transmission analysis
 5) find_epiOverlap_Procedure.pl - for determining procedure contact
 6) find_epiOverlap_Address.pl - for determining address contact
 7) find_controls_part1.pl and find_controls_part2.pl - for selecting controls based on specified criteria
+
+Expected run time
+=================
+For our study, it took less than 1 minute per script per dataset (not accounting for manual post-processing)
